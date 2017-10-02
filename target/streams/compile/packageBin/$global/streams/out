@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\akkacookbook_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\shashank[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com\shashank[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\shashank\chapter1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com\shashank\chapter1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\shashank\chapter1\SummingActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com\shashank\chapter1\SummingActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\shashank\chapter1\BehaviourAndState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com\shashank\chapter1\BehaviourAndState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\shashank\chapter1\SummingActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com\shashank\chapter1\SummingActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\shashank\chapter1\HelloAkkaActorSystem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com\shashank\chapter1\HelloAkkaActorSystem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\shashank\chapter1\BehaviourAndState$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com\shashank\chapter1\BehaviourAndState$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\shashank\chapter1\HelloAkkaActorSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com\shashank\chapter1\HelloAkkaActorSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\shashank\chapter1\HelloAkkaActorSystem$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com\shashank\chapter1\HelloAkkaActorSystem$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\shashank\chapter1\BehaviourAndState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Shashank\IdeaProjects\AkkaCookbook\target\scala-2.12\classes\com\shashank\chapter1\BehaviourAndState$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
